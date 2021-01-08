@@ -2,7 +2,7 @@
 Examen Python
 
 Structure du code
-Etape 1 : importation des librairies utilisées
+Etape 1 : importation des librairies utilisées\n
 Etape 2 : importation des fichiers de données
 Etape 3 : création d'un Dataframe
 Etape 4 : analyse des données
